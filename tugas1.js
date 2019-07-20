@@ -16,12 +16,12 @@ console.log("Total: " + laptop.length);
 //tipe object
 var motor = {
  merk : "Honda"
- nama : "Supra"
+ name : "Supra"
  nopol : "B 4433 KJO"
  warna : [" Silver, Hitam, Merah"]
 }; 
 console.log("nama pelanggan :", motor.merk);
-console.log("nama motor :", motor.nama);
+console.log("nama motor :", motor.name);
 console.log("nomor polisi :", motor.nopol);
 console.log("warna motor :", motor.[2]);
 
