@@ -81,7 +81,7 @@
     if (date == 21) {
         if (tanggal == 20) {
         console.log("Hari Ini Tanggal 21");
-        }
+        };
     } else {
         console.log("Hari Ini Tanggal Berapa Cuy ??");
     };
@@ -95,22 +95,13 @@
                 console.log("Selamat datang pak bos!");
             } else {
                 console.log("Password salah, coba lagi!");
-            }
+            };
         } else {
             console.log("Username Dan Password Tidak Terdaftar");
         };
 
 
-
-
-
-
-
-
-
-
-
-//2. Buat 2 contoh penggunaan looping dgn while yg dikombinasikan dengan if-else
+        //2. Buat 2 contoh penggunaan looping dgn while yg dikombinasikan dengan if-else
         //a.
         var tugas = "pusing"; 
 
@@ -119,10 +110,10 @@
             while (angka <= 10){
                 console.log(angka + ". KERJAIN BOSS!");
                 angka++;
-            }
+            };
         } else {
             console.log("Jangan di Di diemin");
-        }
+        };
 
         //b.
         var Cinta = "Ditolak";
@@ -132,10 +123,10 @@
             while (angka < 2){
                 console.log("Loppingan nya" + angka);
                 angka++;
-            }
+            };
         } else {
             console.log("Maaf Anda Kurang Mapan Boss!");
-        }
+        };
         
 
 //3. Buat contoh penggunaan switch-case dan for-loop di
